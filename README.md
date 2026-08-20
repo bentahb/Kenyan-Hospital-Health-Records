@@ -9,4 +9,5 @@ This project analyses kenyan hospital records using microsoft excel
 - Network Connection
 - Power Blackout
 - Concentration span
+- Installations problems
 
